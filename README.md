@@ -21,4 +21,4 @@ G’sAcademy課題01チーズアカデミーCOTOCOTO KITCHEN
 - [感想]：15年以上前、HTML５、CSS３よりだいぶ前の仕様で制作しており、改めて自分の手で制作してみて、非常に整理された制作フローになっていると実感した。
 - [tips]：Web、ChatGPT、Bingなどで、検索する際のワード次第で、求める解に近づけるかが大きく変わり、その為にも外国語のように専門用語を理解していかないとと改めて感じた。
 - [参考記事]：
-[googleformをhtmlに埋め込む]<https://digitor.jp/textbook/googleforms-embedding/>
+[googleformをhtmlに埋め込む]<https://shogo-log.com/google-form-ajax/>
